@@ -4,7 +4,7 @@ This is a Next.js 15+ application built for the Whatbytes backend/frontend assig
 
 ## 🚀 Live Demo
 
-**Deployment URL:** [https://whatbytes-assignment-rho.vercel.app](https://whatbytes-assignment-rho.vercel.app)  
+**Deployment URL:** [https://what-bytes-omega.vercel.app/](https://what-bytes-omega.vercel.app/)  
 *(Note: Please deploy to Vercel to get your specific URL)*
 
 ## 🛠 Tech Stack
